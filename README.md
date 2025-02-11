@@ -13,7 +13,7 @@ xxxxx
 
 ## 📫 How to Reach Me
 - **Email**: [olivia.haussener@gmail.com](mailto:olivia.haussener@gmail.com)
-- **LinkedIn**: [linkedin.com/in/olivia-haussener](www.linkedin.com/in/olivia-haussener)
+- **LinkedIn**: [linkedin.com/in/olivia-haussener](https:\\www.linkedin.com/in/olivia-haussener)
 
 ## ⚡ Fun Facts
 - 
