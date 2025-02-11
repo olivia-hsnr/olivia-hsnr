@@ -9,9 +9,7 @@ xxxxx
 - 
 
 ## 💬 Ask Me About
-- Full-Stack Development
-- Open-Source Contributions
-- Any of my projects
+- 
 
 ## 📫 How to Reach Me
 - **Email**: [olivia.haussener@gmail.com](mailto:olivia.haussener@gmail.com)
