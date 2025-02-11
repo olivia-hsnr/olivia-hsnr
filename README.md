@@ -2,6 +2,13 @@
 
 xxxxx
 
+## About Me
+
+- 🌍 Based in: Switzerland
+- 💼 Currently working at: Technician support and Consultant ERP junior
+- 🎓 Education: Computer scientist CFC and ES graduate computer scientist
+- 💻 Specializing in: Support, ERP, PostgreSQL, Pascal, Network, Hardware
+
 ## 🔭 Current Projects
 - 
 
@@ -12,14 +19,15 @@ xxxxx
 - 
 
 ## 📫 How to Reach Me
-- **Email**: [olivia.haussener@gmail.com](mailto:olivia.haussener@gmail.com)
-- **LinkedIn**: [Linkedin](www.linkedin.com/in/olivia-haussener)
+- 📧 **Email**: [olivia.haussener@gmail.com](mailto:olivia.haussener@gmail.com)
+- 💼 **LinkedIn**: [Linkedin](www.linkedin.com/in/olivia-haussener)
 
 ## ⚡ Fun Facts
 - 
 
-## 🛠️ Technologies & Tools
-- 
+## 🛠️ Skills
+
+-
 
 ## 📈 GitHub Stats
 ![Olivia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olivia-hsnr&show_icons=true&theme=radical)
@@ -32,4 +40,4 @@ xxxxx
 
 ---
 
-*Let's connect and build amazing things together!*
+Thanks for visiting my profile! Have a great day! 😊
